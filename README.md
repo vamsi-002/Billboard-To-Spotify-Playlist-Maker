@@ -59,8 +59,8 @@ To use the Spotify API, you need to set up your own Spotify Developer credential
 1. **Create a `.env` file** in your project directory (if it doesn't already exist).
 
 2. **Add the following content** to your `.env` file:
-
+   ```plaintext
     SPOTIPY_CLIENT_ID=your_client_id
     SPOTIPY_CLIENT_SECRET=your_client_secret
-    
+
     - Replace "your_client_id" and "your_client_secret" with the credentials you obtained from the Spotify Developer Dashboard.
