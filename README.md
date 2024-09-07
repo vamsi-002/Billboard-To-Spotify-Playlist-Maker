@@ -63,4 +63,4 @@ To use the Spotify API, you need to set up your own Spotify Developer credential
     SPOTIPY_CLIENT_ID=your_client_id
     SPOTIPY_CLIENT_SECRET=your_client_secret
 
-    - Replace "your_client_id" and "your_client_secret" with the credentials you obtained from the Spotify Developer Dashboard.
+3. Replace "your_client_id" and "your_client_secret" with the credentials you obtained from the Spotify Developer Dashboard.
